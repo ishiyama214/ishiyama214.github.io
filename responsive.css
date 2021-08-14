@@ -1,0 +1,527 @@
+@media screen and (max-width:896px){
+    
+    .header{
+        padding: 0;
+    }
+
+    .logo{
+        height: 35px;
+        width: 125px;
+        padding: 5px 0;
+    }
+
+    .home{
+        display: none;
+    }
+
+    .bird{
+        width: 9%;
+        top: 84%;
+        right: -1px;
+    }
+
+    .privacy{
+        width: 70px;
+        top: 950px;
+    }
+    
+    .privacy img{
+        width: 57%;
+        padding-top: 5px;
+    }
+
+    .privacy p{
+        font-size: 10px;
+        line-height: 6px;
+        text-align: center;
+    }
+
+    .back{
+        background-image: url(img/zigyo-1.png);
+        background-size: 100%;
+        padding-top: 150px;
+    }
+
+    .back h1{
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .group{
+        display: none;
+    }
+
+    .sen1 h1{
+        font-size: 30px;
+        line-height: 35px;
+        letter-spacing: 5px;
+    }
+
+    .nayami{
+        font-size: 24px;
+        padding: 40px 0 20px 0;
+    }
+
+    .check0{
+        padding: 0 196px 30px 196px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .check0 img{
+        width: 27px;
+        height: 27px;
+    }
+    
+    .check0 h3{
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+    .check0 br{
+        display: none;
+    }
+
+    .check2{
+        padding: 10px 15px;
+    }
+
+    .blue{
+        font-size: 20px;
+        letter-spacing: 3px;
+        margin-top: 0;
+        padding: 30px 0;
+    }
+
+    .pink{
+        font-size: 23px;
+        max-width: 530px;
+        padding: 34px 0 25px 0;
+    }
+
+    .graf{
+        margin-bottom: 50px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+    
+    .graf img{
+        width: 89%;
+        padding: 0 40px;
+    }
+    
+    .graf p{
+        font-size: 15px;
+        line-height: 22px;
+        width: 100%;
+        padding: 10px 40px;
+    }
+
+
+    .sp h2{
+        font-size: 21px;
+        letter-spacing: 3px;
+    }
+    
+    .w{
+        height: auto;
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .w h3{
+        font-size: 14px;
+        text-align: left;
+        margin-right: auto;
+        max-width: 100%;
+    }
+    
+    .w img{
+        width: 50%;
+    }
+    
+    .q{
+        width: 79%;
+    }
+    
+    .q h3{
+        padding: 40px 0;
+        height: 10px;
+    }
+    
+    .e{
+        width: 79%;
+    }
+    
+    .e h3{
+        padding: 40px 0;
+        height: 10px;
+    }
+    
+    .r{
+        width: 79%;
+    }
+    
+    .r h3{
+        padding: 40px 0;
+        height: 10px;
+    }
+    
+    .w p{
+        font-size: 16px;
+        letter-spacing: 1px;
+        padding-top: 20px;
+        width: 560px;
+        text-align: initial;
+    }
+
+
+    .orange{
+        padding: 40px 0;
+    }
+    
+    .orange a{
+        font-size: 17px;
+        line-height: 30px;
+        box-shadow: rgb(151, 98, 0) 0 5px 0;
+        padding: 10px 240px;
+    }
+    
+    span{
+        font-size: 22px;
+        letter-spacing: 5px;
+    }
+
+
+    .riyuu{
+        font-size: 22px;
+        letter-spacing: 2px;
+        padding: 50px 0;
+    }
+    
+    .app{
+        margin: 0 auto;
+        max-width: 580px;
+        padding-bottom: 30px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .app h4{
+        font-size: 14px;
+    }
+    
+    .app p{
+        font-size: 15px;
+    }
+    
+    .app img{
+        width: 100%;
+    }
+    
+    .app1{
+        width: 100%;
+    }
+    
+    .app2{
+        width: 100%;
+    }
+
+
+    .sen2{
+        height: 350px;
+        padding-top: 38px;
+    }
+    
+    .sen2 h1{
+        font-size: 19px;
+        line-height: 25px;
+    }
+
+    .sen2 img{
+        width: 27px;
+        height: 27px;
+        padding: 3px 7px;
+    }
+    
+    .sen2 h2{
+        font-size: 20px;
+        line-height: 35px;
+        letter-spacing: 3px;
+    }
+    
+    .checkz{
+        max-width: 300px;
+        padding: 33px 0;
+    }
+    
+    .checkb{
+        padding: 10px 0;
+    }
+
+
+    footer{
+        margin-top: 10px;
+    }
+    
+    footer a{
+        display: none;
+    }
+    
+    .gray{
+        padding: 33px 0 0 0;
+        max-width: 700px;
+        display: block;
+        text-align: center;
+    }
+    
+    .face{
+        padding: 0;
+    }
+
+    .face img{
+        width: 50%;
+        padding-right: 30px;
+    }
+    
+    .face h5{
+        padding-top: 10px;
+    }
+    
+    .face a{
+        display: none;
+    }
+    
+    .f img{
+        display: none;
+    }
+    
+    ul{
+        list-style: none;
+    }
+    
+    .home2{
+        display: none;
+    }
+    
+    .pra{
+        display: none;
+    }
+    
+    .menber{
+        display: none;
+    }
+    
+    .jouhou{
+        display: none;
+    }
+    
+    .copy{
+        padding: 45px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:480px){
+
+    .logo{
+        height: 33px;
+        padding: 6px 15px;
+    }
+    
+    .bird{
+        width: 18%;
+        top: 81%;
+        right: -1px;
+    }
+
+    .privacy{
+        width: 70px;
+        top: 740px;
+    }
+    
+    .privacy img{
+        width: 57%;
+        padding-top: 5px;
+    }
+
+    .privacy p{
+        font-size: 10px;
+        line-height: 6px;
+        text-align: center;
+    }
+
+    .back{
+        padding-top: 60px;
+    }
+
+    .back h1{
+        font-size: 21px;
+        padding: 8px 0;
+    }
+
+    .sen1 h1{
+        font-size: 28px;
+    }
+
+    .br-sp{
+        display: block;
+    }
+
+    .nayami{
+        font-size: 24px;
+        margin: 0 auto;
+        max-width: 210px;
+        padding: 40px 0 20px 0;
+    }
+
+    .check0{
+        padding: 0 9px 30px 9px;
+    }
+
+    .blue{
+        font-size: 20px;
+        letter-spacing: 3px;
+        line-height: 25px;
+        padding: 25px 45px;
+    }
+
+    .pink{
+        line-height: 30px;
+        max-width: 320px;
+        padding: 32px 0 20px 0;
+    }
+
+    .graf{
+        margin-bottom: 30px;
+    }
+    
+    .graf img{
+        width: 77%;
+    }
+
+    .sp{
+        padding: 35px 0 40px 0;
+    }
+
+    .sp h2{
+        line-height: 27px;
+        margin: 0 auto;
+        max-width: 320px;
+    }
+    
+    .w h3{
+        font-size: 12px;
+        max-width: 93%;
+    }
+    
+    .w img{
+        width: 48%;
+    }
+    
+    .q h3{
+        padding: 40px 0;
+        height: 10px;
+    }
+    
+    .e h3{
+        padding: 33px 0;
+        height: 5px;
+    }
+    
+    .r h3{
+        padding: 30px 0;
+        height: 15px;
+    }
+    
+    .w p{
+        letter-spacing: 2px;
+        line-height: 28px;
+        margin: 0 auto;
+        max-width: 280px;
+    }
+
+    .orange{
+        padding: 45px 0;
+    }
+    
+    .orange a{
+        font-size: 17px;
+        letter-spacing: 1px;
+        padding: 12px 60px;
+    }
+    
+    span{
+        font-size: 24px;
+    }
+
+    .riyuu{
+        font-size: 21px;
+        letter-spacing: 3px;
+        line-height: 26px;
+        padding: 45px 0 35px 0;
+        margin: 0 auto;
+        max-width: 290px;
+    }
+    
+    .app{
+        max-width: 270px;
+    }
+    
+    .app h4{
+        padding: 2px;
+    }
+    
+    .app1{
+        height: 345px;
+    }
+
+    .sen2{
+        height: 410px;
+    }
+    
+    .sen2 h1{
+        line-height: 27px;
+        margin: 0 auto;
+        max-width: 300px;
+    }
+    
+    .sen2 h2{
+        font-size: 20px;
+        line-height: 35px;
+        letter-spacing: 2px;
+    }
+    
+    .checkz{
+        max-width: 282px;
+    }
+    
+    .checkb{
+        padding: 7px 0;
+    }
+
+    
+    footer a{
+        display: none;
+    }
+    
+    .gray{
+        max-width: 310px;
+    }
+    
+    .face img{
+        width: 60%;
+        padding: 8px 11px 0 0;
+    }
+
+    .face p{
+        margin: 0 auto;
+        max-width: 275px;
+        text-align: left;
+    }
+
+    .copy{
+        padding: 40px 0 55px 0;
+    }
+}
