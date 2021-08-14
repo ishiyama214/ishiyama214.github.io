@@ -99,7 +99,7 @@ html{
 
 
 .back{
-    background-image: url(img/zigyo-1.png);
+    background-image: url(https://github.com/ishiyama214/ishiyama214.github.io/blob/main/zigyo-1.png?raw=true);
     background-size: cover;
     padding-top: 190px;
 }
@@ -132,8 +132,8 @@ html{
 
 .sen1{
     height: 220px;
-    background-image: url(img/kv_l.png),
-                      url(img/kv_r.png);
+    background-image: url(https://github.com/ishiyama214/ishiyama214.github.io/blob/main/kv_l.png?raw=true),
+                      url(https://github.com/ishiyama214/ishiyama214.github.io/blob/main/kv_r.png?raw=true);
     background-size: 50%,
                      50%;
     background-position: left,
@@ -360,8 +360,8 @@ span{
 
 .sen2{
     height: 480px;
-    background-image: url(img/kv_l.png),
-                      url(img/kv_r.png);
+    background-image: url(https://github.com/ishiyama214/ishiyama214.github.io/blob/main/kv_l.png?raw=true),
+                      url(https://github.com/ishiyama214/ishiyama214.github.io/blob/main/kv_r.png?raw=true);
     background-size: 50%,
                      50%;
     background-position: left,
